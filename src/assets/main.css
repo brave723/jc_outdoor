@@ -1,0 +1,24 @@
+@import "./base.css";
+@import "./reset.css";
+@import "./fonts.css";
+
+#app {
+  margin: 0 auto;
+  /* padding: 1rem; */
+  font-weight: normal;
+  font-family: "Cochin", sans-serif;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: #bd621e;
+  transition: 0.4s;
+  /* padding: 3px; */
+}
+
+/* @media (hover: hover) {
+  a:hover {
+    background-color: #bd621e;
+  }
+} */
